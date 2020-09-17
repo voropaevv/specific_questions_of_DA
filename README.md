@@ -4,5 +4,5 @@
 
 | Название проекта | Описание | Используемые библиотеки|
 | ------ | ------ | ------ |
-| [Линейная регрессия: переобучение и регуляризация](https://github.com/voropaevv/specific_questions_of_DA/blob/master/overfitting_linear_models/README.md) | Рассматривается проблема переобучения линейных моделей. | __pandas__, __numpy__, __seaborn__, __matplotlib__, __sklearn__ |
+| [Линейная регрессия: переобучение и регуляризация](https://github.com/voropaevv/specific_questions_of_DA/tree/master/overfitting_linear_models) | Рассматривается проблема переобучения линейных моделей. | __pandas__, __numpy__, __seaborn__, __matplotlib__, __sklearn__ |
 
