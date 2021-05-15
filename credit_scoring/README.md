@@ -1,4 +1,6 @@
 # Анализ данных в задаче кредитного скоринга
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/specific_questions_of_DA/blob/master/credit_scoring/credit_scoring.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 С помощью разных статистических критериев проверить влияние признаков на индикатор невозврата денежных средств.
 ## Описание

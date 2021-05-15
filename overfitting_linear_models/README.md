@@ -1,4 +1,6 @@
 # Линейная регрессия: переобучение и регуляризация
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/specific_questions_of_DA/blob/master/overfitting_linear_models/overfitting_linear_models.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 На примере показать и объяснить, из-за чего возникает переобучение и как с ним можно бороться.
 ## Описание

@@ -1,4 +1,6 @@
 # Прогнозирование уровня средней заработной платы в России
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/specific_questions_of_DA/blob/master/salary_forecasting/salary_forecasting.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Анализ временного ряда с его последующим преобразованием для построения оптимальной моддели в классе __ARIMA__.
 ## Описание

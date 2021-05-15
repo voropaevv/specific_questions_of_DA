@@ -1,4 +1,6 @@
 # Определение тональности постов Telegram-канала
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/specific_questions_of_DA/blob/master/telegram_channels_sentiment_extraction/telegram_channels_sentiment_extraction.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Анализ тональности тех или иных тем Telegram-канала.
 ## Описание

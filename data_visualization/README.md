@@ -1,4 +1,6 @@
 # Визуализация данных
+## Ссылка
+[Ссылка](https://nbviewer.jupyter.org/github/voropaevv/specific_questions_of_DA/blob/master/data_visualization/data_visualization.ipynb) на nbviewer для просмотра ноутбука.
 ## Цель
 Приминение основных техник визуализации данных: понижение размерности и поиск аномалий.
 ## Описание
